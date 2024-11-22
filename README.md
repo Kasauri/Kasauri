@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Kargwak Abednego Sauri
-- 👀 I’m interested in machine learning, artificial intelligence, data science and analysis 
+- 👋 Hi, I’m Kargwak Abednego Sauri and a physicist
+- 👀 I’m interested in Biophotonics, optics/laser physics 
 - 🌱 I’m currently learning data science and machine learning
-- 💞️ I’m looking to collaborate on project of machine learning application in physics and medical physics
+- 💞️ I’m looking to collaborate on project of machine learning application in physics, Biophotonics and and optics 
 - 📫 How to reach me abednegosauri@gmail.com
 
 <!---
